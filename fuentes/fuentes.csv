@@ -1,0 +1,6 @@
+clave,doi,arxiv,nota
+szepannek2024,10.1007/s11634-024-00595-5,,Clustering de datos mixtos con ordinales (K-Prototypes con Gower)
+chicco2025,10.7717/peerj-cs.3309,,Silhouette y Davies-Bouldin como indices internos
+heiskala2025,10.1038/s41366-025-01714-8,,Trayectorias de IMC infantil con k-medoids
+huang2023,10.1097/PN9.0000000000000037,,Trayectorias de percentil de IMC con K-Means de series de tiempo
+ghattas2025,,2511.19755,Comparacion de clustering de datos mixtos (preprint arXiv)

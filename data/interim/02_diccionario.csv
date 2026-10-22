@@ -1,0 +1,53 @@
+fuente,variable,escala,tipo_python,uso,motivo,vacios_pct,n_unicos
+ficha,periodo,ordinal,str,K,clave temporal,0.0,19
+ficha,IDs_FichaNominal,nominal,str,K,clave de unión,0.0,157
+ficha,Sexo,nominal,str,M,binaria,0.0,2
+ficha,Fecha de nacimiento,fecha,str,K,derivar edad_meses y descartar,0.0,154
+ficha,Departamento,nominal,str,X,casi constante,0.0,8
+ficha,Provincia,nominal,str,X,casi constante,0.0,12
+ficha,Distrito,nominal,str,X,riesgo de reidentificación,7.2,32
+ficha,Nacionalidad,nominal,str,X,constante tras normalizar,0.0,2
+ficha,Fecha de ingreso,fecha,str,K,derivar meses_permanencia y descartar,0.0,107
+ficha,Observaciones y/o comentarios de la forma de ingreso de la NNA,nominal,str,X,administrativa o casi constante,0.0,4
+ficha,Juzgado/UPE,nominal,str,X,administrativa o casi constante,0.0,2
+ficha,Tipo de documento,nominal,str,X,administrativa o casi constante,0.0,5
+ficha,Fecha de la Resolucion Administrativa,nominal,str,X,administrativa o casi constante,6.8,95
+ficha,Situación Legal de la (NNA),nominal,str,M,agrupar categorías raras,0.0,6
+ficha,Fecha del Oficio de Ingreso,nominal,str,X,administrativa o casi constante,2.2,101
+ficha,Nombre de UPE /Juzgado,nominal,str,X,administrativa o casi constante,0.0,9
+ficha,Comunicado_DGA,nominal,bool,X,administrativa o casi constante,0.0,1
+ficha,FECHA ELABORACIÓN Plan de Trabajo individual - PTI,nominal,str,X,administrativa o casi constante,0.0,91
+ficha,VIGENCIA DEL PTI,nominal,str,X,administrativa o casi constante,0.0,89
+ficha,ESTADO DEL PTI,nominal,str,X,administrativa o casi constante,0.0,4
+ficha,Instancia que elabora el PTI,nominal,str,X,administrativa o casi constante,0.0,8
+ficha,Grado de Instrucción,nominal,str,X,administrativa o casi constante,0.0,37
+ficha,Último nivel educativo logrado,ordinal,str,M,Ninguno<Inicial<Primaria<Secundaria<Técnico,0.0,5
+ficha,Tipo de Institución Educativa,nominal,str,X,administrativa o casi constante,0.0,8
+ficha,Acceso a capacitación técnico productiva,nominal,str,X,administrativa o casi constante,0.1,2
+ficha,La NNA actualmente estudia,nominal,str,M,binaria,0.0,4
+ficha,Estado de Salud Física Actual,nominal,str,M,agrupar categorías raras,0.0,7
+ficha,Presenta Discapacidad (Indicar tipo de discapacidad),nominal,str,M,binaria sí/no,0.0,9
+ficha,Nivel Nutricional,nominal,str,V,solo validación externa,0.0,31
+ficha,Soporte Psico-emocional,nominal,str,M,normalizar y agrupar,0.0,53
+ficha,Atenciones de salud psicológica,nominal,str,X,administrativa o casi constante,0.0,2
+ficha,Atención en Salud mental especializada,nominal,str,M,normalizar,0.0,4
+ficha,Seguro de Salud (NNA),nominal,str,X,administrativa o casi constante,0.0,2
+nutricion,[2026_01] INFANTES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | P/T | IMC | P/E | T/E | P/T | IMC,,33
+nutricion,[2026_01] MIGUEL ECHENIQUE,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | T/E | IMC/E | T/E | IMC/E,,17
+nutricion,[2026_01] TOMAS VALLE,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | T/E | IMC/E | T/E | IMC/E,,22
+nutricion,[2026_01] MATOGROSO MUJERES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | T/E | IMC/E | T/E | IMC,,32
+nutricion,[2026_01] MATOGROSO HOMBRES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | T/E | IMC/E | T/E | IMC,,37
+nutricion,[2026_02] Eva.Nut febrero,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | P/T | IMC | P/E | T/E | P/T | IMC,,7
+nutricion,[2026_03] Eva.Nut marzo,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | P.CEFALICO | P/E | T/E | P/T | IMC | P/E | T/E | P/T | IMC,,6
+nutricion,[2026_04] INFANTES (ABR),mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | P/T | IMC | P/E | T/E | P/T | IMC,,30
+nutricion,[2026_04] MIGUEL ECHENIQUE,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | PA | IMC | T/E | IMC/E | T/E | IMC/E,,16
+nutricion,[2026_04] TOMAS VALLE,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | P.A | IMC | P/E | T/E | IMC/E | T/E | IMC/E,,20
+nutricion,[2026_04] MATOGROSO MUJERES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | IMC/E | T/E | IMC,,18
+nutricion,[2026_04] MATOGROSO HOMBRES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | IMC/E | T/E | IMC,,24
+nutricion,[2026_06] INFANTES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | P/T | IMC | P/E | T/E | P/T | IMC,,30
+nutricion,[2026_06] MIGUEL ECHENIQUE,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | IMC/E | T/E | IMC/E,,17
+nutricion,[2026_06] TOMAS VALLE,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | IMC/E | T/E | IMC/E,,21
+nutricion,[2026_06] MATOGROSO MUJERES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | IMC/E | T/E | IMC,,18
+nutricion,[2026_06] MATOGROSO HOMBRES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD | PESO (kg) | TALLA (cm) | IMC | P/E | T/E | IMC/E | T/E | IMC,,22
+nutricion,[2026_08] MATOGROSO MUJERES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD C/ FORMULA | EDAD | PESO (kg) | TALLA (cm) | IMC | T/E | IMC/E | T/E | IMC,,15
+nutricion,[2026_08] MATOGROSO HOMBRES,mixta,object,M,columnas: FECHA DE NACIMIENTO | EDAD C/ FORMULA | EDAD | PESO (kg) | TALLA (cm) | IMC | T/E | IMC/E | T/E | IMC,,17

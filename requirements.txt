@@ -1,0 +1,16 @@
+# Dependencias previstas (sin versiones fijadas: no se pudieron instalar ni probar desde el entorno de Claude).
+# Fijar versiones con `pip freeze` cuando el autor instale y ejecute los notebooks.
+pandas
+numpy
+scipy
+scikit-learn
+scikit-learn-extra   # KMedoids (PAM)
+kmodes               # K-Prototypes
+gower                # distancia de Gower
+hdbscan
+matplotlib
+seaborn
+openpyxl             # lectura de .xlsx
+joblib
+factor_analyzer      # Bartlett y KMO
+jupyter

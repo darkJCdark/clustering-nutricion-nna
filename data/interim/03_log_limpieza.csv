@@ -1,0 +1,19 @@
+regla,filas_afectadas,detalle
+ficha: duplicados ID+periodo (se conserva la fila con menos vacíos),17,
+ficha: fecha de nacimiento no interpretable,0,
+ficha: fecha de ingreso no interpretable,0,
+ficha: nivel educativo sin mapa,0,
+ficha: estudia vacío -> se deja vacío (moda no aplicada),0,
+nutrición: fecha de nacimiento no interpretable,0,
+nutrición: duplicados ID+periodo,0,
+unión: mediciones con ficha de otro periodo,37,
+unión: mediciones sin ficha,0,
+edad: fecha de nacimiento tomada de la ficha,0,
+edad: fechas de nacimiento de nutrición y ficha discrepan >31 días,6,se usa la de nutrición
+"exclusión: sin peso, talla o edad",23,no se imputa la medida base
+plausibilidad: peso o talla fuera de 5–150 kg / 40–200 cm,0,solo bandera
+categórica situacion_legal: vacío -> 'desconocido',0,
+categórica salud_fisica: vacío -> 'desconocido',0,
+categórica soporte_psico: vacío -> 'desconocido',0,
+categórica salud_mental_esp: vacío -> 'desconocido',0,
+categórica sexo: vacío -> 'desconocido',0,
