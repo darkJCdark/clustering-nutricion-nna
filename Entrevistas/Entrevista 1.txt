@@ -1,0 +1,219 @@
+# Entrevista 1
+
+  Meeting started: 28/10/2026, 8:25:44 p. m.
+  Duration: 24 minutes
+  Participants: Speaker 1, Speaker 2, Speaker 3
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/YDSi1QaCD54A438FDXr8?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: ¡Gracias! Gracias por ver el
+00:08 Speaker 2: video.
+00:31 Speaker 1: de
+00:32 Speaker 2: algunas variables o de las variables que nos van a entregar hoy. Vamos a revisar una secuencia de dos o tres reuniones para entrega de datos, porque no tenemos un bloque. El profesor Ayanele nos va a explicar sobre el primer bloque de datos. Y la idea es que podamos entender la idea, las variables que registran, y si es que tuvieran alguna duda o consulta sobre el análisis posterior que vamos a realizar, también sería una idea que les da una pregunta. Entonces, presento a que está la idea.
+01:02 Speaker 3: Buen día, buen día a todos. Soy Yanivete Mosteo, trabajadora por el culturio Pérez de Aníbal. Y bueno, antes de iniciar con la reunión, agradecer a Stephanie por haber articulado a través de la DAT esta intervención de la diversidad con la institución, porque
+01:21 Speaker 1: como se comentaba en algún momento en nuestro primer encuentro... de trabajar con expedientes,
+01:28 Speaker 3: con papeles y no habíamos tenido la oportunidad de poder hacer algo más con esta información, con el análisis de datos en este caso. Una oportunidad para nosotros como institución y también para ustedes como estudiantes. El Puricultorio Pérez Paralíbal es un centro de atención residencial, un car básico que pertenece a la verificencia de Lima Metropolitana. Nosotros ahorita estamos en un proceso de dedicación con el Ministerio de la Mujer, por tanto, desde el año pasado, en 2025,
+01:55 Speaker 1: no están ingresando niñas y niñas.
+01:57 Speaker 3: ¿A qué población nosotros atendemos? Nosotros atendemos a niñas, niños y adolescentes desde los 0 hasta los 17 años que se encuentran en situación de desprotección. ¿Qué quiere decir esto? Que el Ministerio de la Mujer, a través de la Unidad de Protección Mundial,
+02:12 Speaker 1: inicia un proceso para
+02:15 Speaker 3: determinar si la niña, niña o adolescente se encuentra o no se encuentra en situación de desprotección. ¿Y qué es la situación de desprotección? Es cuando un padre, madre o cuidador
+02:26 Speaker 1: responsable de la niña niña... ...con sus
+02:36 Speaker 2: funciones...
+02:39 Speaker 3: parentales adecuadamente para ejercer el cuidado y protección del menor. Es decir, pues, de alguna u otra manera sean derechos que pueden por riesgo la vida del menor. Entonces, cuando el Ministerio de la Mujer, a través de la UPE, Protección Especial, realiza esta intervención y determina que hay un riesgo, es trasladado
+02:58 Speaker 1: a un albergo o a un médico.
+03:02 Speaker 3: Actualmente nosotros estamos haciendo siete
+03:05 Speaker 1: niños y adolescentes, brindamos atención integral y protección.
+03:10 Speaker 3: Ellos están buscados
+03:12 Speaker 1: en
+03:14 Speaker 3: hogares y dos hogares familiares.
+03:18 Speaker 1: Aproximadamente en cada año, recuerdo la edad, pueden haber dos niños. Gracias por ver el video. Si no, que apague su cámara para que le vaya mejor. Les comentaba,
+04:12 Speaker 3: me quedé en el departamento médico, parte de todos.
+04:18 Speaker 1: Uy, ya.
+04:20 Speaker 3: Si no, voy a apagar mi... Lo que pasa es que, como te comenté, no teníamos internet en el servicio
+04:25 Speaker 1: y estoy conectada. Gracias. Gracias. A pedir comentar sobre los
+04:39 Speaker 3: servicios del pericultorio, tenemos el servicio de psicología que se encarga de hacer el acompañamiento, ya sea de manera individual o grupal, el departamento de servicio social que es al cual pertenezco, que es la institución de derechos fundamentales como es la identidad, mediante las gestiones con RENIEC para emitir el DNI, la parte educativa que es buscando los colegios en la comunidad para que los chicos puedan...
+05:04 Speaker 1: insertados en el sistema educativo, también
+05:07 Speaker 3: por ahí la parte de aplicación al seguro de salud, sí,
+05:10 Speaker 1: y otras entradas de
+05:11 Speaker 3: actividad. El departamento de nutrición necesita hacer las evaluaciones periódicas de los chicos para poder crear dietas adecuadas a otras necesidades, y el departamento médico, que se carga el tema de atención, es la atención primaria, cuando un niño o niño adolescente puede tener un
+05:25 Speaker 1: respiro común,
+05:26 Speaker 3: algún tema de infección se levanta.
+05:29 Speaker 1: este departamento, no es la atención primaria. Se requiere otro tipo de atención derivado
+05:33 Speaker 3: de los hospitales o centros de salud. Y el área legal, que se encarga de hacer el acompañamiento legal durante todo este proceso administrativo para que se defina
+05:41 Speaker 1: la situación de la disminución.
+05:44 Speaker 3: Y este es un poco de los servicios que nosotros brindamos como
+05:46 Speaker 1: atención integral. No
+05:49 Speaker 3: sé si como parte del servicio que brindamos hay alguna consulta, alguna duda.
+06:07 Speaker 1: Bueno, es el
+06:10 Speaker 3: permiso que nosotros brindamos, pero durante este proceso administrativo, el Ministerio de la Mujer tiene un instrumento técnico que se llama el plan de trabajo individual. El plan de trabajo individual contiene objetivos y la metodología para ampliar. para que estas niñas, niñas y adolescentes puedan reintegrarse, ya sea con la familia de origen, con la familia extensa, con terceros también. Hay otras modalidades de cuidado que se llama el acogimiento familiar. Es cuando familias
+06:39 Speaker 1: no
+06:41 Speaker 3: tienen necesariamente vínculo con san niño o con esos menores, pero pueden acogerlos durante un periodo de dos años.
+06:47 Speaker 1: Y el más conocido es la adopción. Entonces, mediante este plan de trabajo individual o BTI, como nosotros le decimos, van a estar todos esos objetivos
+06:56 Speaker 3: que van a realizar tanto la UPE como el equipo técnico del policultor.
+07:02 Speaker 1: La norma nos dice que hay
+07:04 Speaker 3: un periodo de 18 meses para que se ubique la familia de origen, para que la familia pueda superar todos esos factores
+07:10 Speaker 1: de riesgo, para que hagan psicoterapia,
+07:12 Speaker 3: para que hagan terapia reeducativa y mejoren su entorno familiar y los chicos puedan retornar. Sin embargo, la realidad es que no siempre se da así. En 18 meses la familia no logra superar los factores de riesgo. Entonces nosotros como equipo
+07:26 Speaker 1: sugerimos al Ministerio de la Mujer que
+07:29 Speaker 3: se defina la situación legal.
+07:31 Speaker 1: ¿Por qué? Porque todos los chicos que ingresan, ingresan en una presunta
+07:35 Speaker 3: situación de desprotección. Entonces, lo que nosotros solicitamos es que se defina, que se pase de una presunta a una situación de desprotección definitiva. Y con ello se pueda declarar la adoptabilidad
+07:48 Speaker 1: de los chicos.
+07:50 Speaker 3: Es básicamente el proceso desde que ingresa el menor hasta que pueda ingresar. Por ello a veces tenemos casos donde los chicos han ingresado desde recién nacidos,
+08:00 Speaker 1: pero como es administrativo,
+08:03 Speaker 3: burocrático, muchas veces tienen periodos de permanencia muy
+08:06 Speaker 2: largos. Y eso se lo van a poder
+08:07 Speaker 3: analizar con la base de datos que voy a presentar. Estefania, ¿ya puedo ir presentando la base para que los chicos vean
+08:16 Speaker 1: los términos que estoy utilizando? Sí.
+08:21 Speaker 2: ¿Te permite la pantalla compartir? Sí.
+08:24 Speaker 3: Sí, ya puedo compartir. La base de datos es obtenida de
+08:35 Speaker 1: otro instrumento que es la ficha nominal. Gracias
+08:41 Speaker 3: a Stephanie podemos sacar toda la información
+08:44 Speaker 1: que no era sencilla. Y hemos considerado el periodo de enero de 2025 a 2022.
+09:00 Speaker 3: Hemos considerado también el lugar de nacimiento, departamento provista distrito, la nacionalidad, y aquí en observaciones y comentarios es algo que les mencionaba, que la mayoría ingresa por pregunta de protección familiar. En cuanto a la institución que está llevando el
+09:29 Speaker 1: caso de cada niño y medio adolescente, tenemos a las
+09:33 Speaker 3: unidades de protección especial, pero también tenemos a los
+09:36 Speaker 1: juzgados, ¿no?
+09:38 Speaker 3: Y a la vía judicial. Y estos son los tipos de documentos con los cuales ingresan
+09:46 Speaker 1: los chicos. Cuando corresponden las CUPES, ingresan con las resoluciones administrativas.
+09:51 Speaker 3: Y cuando son casos del juzgado, pues tienen solamente las resoluciones judiciales. Y aquí está lo que les mencionaba, la situación legal de cada niño y niño adolescente. Algunos están en situación de desprotección familiar provisional,
+10:04 Speaker 1: otros están con desprotección familiar definitiva,
+10:07 Speaker 3: y otros tienen ya el carácter de la localidad.
+10:12 Speaker 1: Aquí tenemos a nombre de cada
+10:14 Speaker 3: unidad de protección especial. En Clima Metropolitana tenemos
+10:17 Speaker 1: cuatro unidades. Es la UPELIMA,
+10:19 Speaker 3: Centro, UPELIMA Norte Tallado, UPELIMA Sur y UPELIMA ERI. En cuanto a la Dirección General de Adopciones, que es otra instancia del Ministerio de la Mujer, aquí hemos considerado, está considerado quién es el caso, o cuáles de los casos están ya en esa Dirección General de Adopciones.
+10:40 Speaker 1: No quiere decir que ya se ha determinado la
+10:42 Speaker 3: situación legal y ha pasado realidad. A partir de aquí tenemos información sobre el plan de trabajo individual, y bueno, aquí tenemos que quedar pendiente poder revisar la
+11:00 Speaker 1: fecha,
+11:01 Speaker 3: la fecha de elaboración del país. Generalmente,
+11:08 Speaker 1: los rangos de vigencia
+11:10 Speaker 3: de este instrumento
+11:11 Speaker 1: son 6 meses, 12 meses o
+11:13 Speaker 3: 18 meses, ¿no? Sin embargo, cuando la niña, niña o adolescente, pues no creo que cada familia de origen y es un residente de larga permanencia, se considera que su vigencia va a ser mientras dure la
+11:26 Speaker 1: permanencia en el caso.
+11:30 Speaker 3: Tenemos el estado de PTI también. Una de las funciones del ministerio es tenerlo actualizado, sin embargo, por un tema administrativo a veces no se llega a actualizar o a veces cuando los chicos ingresan supone que al
+11:46 Speaker 1: inicio deben tener un PTI, sin embargo, no es considerado en las clases.
+11:50 Speaker 3: Por ejemplo, hay unos que están actuales, otros que están vestidos, otros no tienen. Y la instancia que la UFTI es la UFN. Ahora, en cuanto a la parte educativa, tenemos los grados de instrucción. Cuando vemos la opción que dice ninguno, la
+12:09 Speaker 1: niña que no está en la escuela, son menores de tres años.
+12:17 Speaker 3: Y el último nivel, ¿no? Que quiere decir el último grado que se le ha matriculado. Tenemos el tipo de institución también, tenemos los centros educativos básicos regulares, los CEBAS y los CEBES, ¿no? Los CEBES que son para poder hacer el adolescente cuando está desfastado, con el grado que debería corresponder, no coinciden, entonces nos matriculamos en CEBES y los CEBES son los centros educativos básicos especiales, ¿no? Para los
+12:44 Speaker 1: tipos que tienen algún tipo de discapacidad.
+12:50 Speaker 3: También tenemos adolescentes que acceden a los CEPROS, entonces también está consignado esta información. A partir de los 14 años, entonces podemos matricular en CEPROS, prácticos,
+12:59 Speaker 1: técnicos productivos.
+13:06 Speaker 3: Y en la parte de salud tenemos el
+13:09 Speaker 1: estado físico actual.
+13:12 Speaker 3: Tenemos algunos diagnósticos como anemia, sobrepeso. También hemos considerado la discapacidad y el pico.
+13:20 Speaker 1: Aquí lo van a encontrar el nivel
+13:22 Speaker 3: nutricional. Al igual que la licenciada Malú, que es la coordinadora de la nutrición, para realizar una base de datos mucho más amplia. Y en cuanto a la parte psicológica también, ¿no? El tipo de soporte
+13:37 Speaker 1: psicológico que selecciona.
+13:41 Speaker 3: Las atenciones en salud psicológica que se dan en los centros de salud y las atenciones en salud mental especializada.
+13:50 Speaker 1: Lo que es salud
+13:50 Speaker 3: mental especializada se da en el centro de salud mental comunitario que tenemos aquí
+13:57 Speaker 1: en Manoelena. Somos cinco que reciben ahí. Y el tipo de seguro.
+14:08 Speaker 3: Es fenomenal, que básicamente tendría que ser el resumen de lo que es un expediente de las niñas, niños y adolescentes. El expediente vamos a encontrar en documentos,
+14:17 Speaker 1: fichas, en informes, esa información que está aquí, en la base de datos.
+14:24 Speaker 3: No sé si hay alguna consulta de repente sobre algún término, sobre la información que está consignada.
+14:41 Speaker 1: Hola,
+14:42 Speaker 2: sí, tengo una consulta. ¿Cuál era la diferencia entre la columna que decía grado de instrucción y el último nivel que se le matriculó?
+14:53 Speaker 3: Esta ficha nominal se presenta mes a mes al Ministerio de la Mujer sobre los casos que tenemos, considerando que tenemos solo egresos, más no ingresos. Entonces, el grado de inscripción en el mes es el grado de inscripción
+15:06 Speaker 1: en el mes de 25.
+15:26 Speaker 3: Este es el grado en el que está el niño y el último
+15:29 Speaker 1: es en el cuarto grado, ¿no? Por ejemplo, supongamos, en diciembre del 12 de febrero, el 12
+15:36 Speaker 3: de febrero,
+15:40 Speaker 1: el 12
+15:43 Speaker 3: de febrero, el 12 de febrero, el 12 de febrero,
+15:43 Speaker 1: va a continuar su grado de febrero.
+15:48 Speaker 3: Pero en marzo
+15:50 Speaker 1: del 12 de febrero, como ya pasé a primaria, se puede hacer el último cuando tengamos el primer marzo.
+16:10 Speaker 2: Gracias.
+16:25 Speaker 1: Muchas gracias.
+16:48 Speaker 2: Respecto a la denominación de desprotección, cuando se pasa de, presunto creo que era la palabra, y presunta. Para que pasa de presunto a definitivo, más o menos, ¿cuáles tienen en cuenta? Es algo legal, ¿cierto? Es un proceso legal para definirlo. Pero más o menos, ¿qué características
+17:12 Speaker 1: tendrían en cuenta para llegar
+17:14 Speaker 3: al definitivo o para
+17:15 Speaker 2: decir que todavía no
+17:17 Speaker 1: hay un... Más que nada, son los 4% de las familias de origen.
+17:24 Speaker 3: Cómo nosotros definimos, o cómo se define
+17:26 Speaker 1: la norma de la familia de origen, ¿no?
+17:28 Speaker 3: Mamá, papá, o cualquier otro miembro que haya convivido con la
+17:31 Speaker 1: niña niña adolescente, como su abuelo, su tío, siempre
+17:35 Speaker 3: cuando haya convivido con la familia, haya convivido con la niña niña adolescente. Entonces, cuando se inicia el
+17:42 Speaker 1: proceso por desprotección, ha habido
+17:47 Speaker 3: un reporte de una
+17:49 Speaker 1: situación de desprotección.
+17:51 Speaker 3: Por ejemplo, actualmente los vecinos suelen llamar a las cometerías, o han presenciado actos de
+17:56 Speaker 1: violencia, o abandono.
+17:59 Speaker 3: de una niña o niña o de una ufemisma o a través de un centro de
+18:04 Speaker 1: mujeres. Entonces los equipos en la unidad de profesión especial
+18:07 Speaker 3: realizan una primera evaluación y les manejan una tabla de valoración donde se puede determinar el riesgo.
+18:15 Speaker 1: ¿Por desprotección o la desprotección?
+18:17 Speaker 3: El riesgo por desprotección es cuando hay una vulneración de derechos, pero no reviste gravedad. Sin embargo, la
+18:23 Speaker 1: desprotección sí,
+18:25 Speaker 3: ¿no? Puede poner incluso en riesgo la integridad física o
+18:29 Speaker 1: emocional de la niña en el mismo modo de su gente.
+18:31 Speaker 3: Entonces, cuando se ha valorado
+18:33 Speaker 1: que hay una desprotección,
+18:35 Speaker 3: como medida de protección provisional, la UPE resuelve que ese menor ingrese a un CAR para que justamente salvaguarda la integridad física y emocional, mientras que dure la investigación. Es algo así, ¿no? Para ponerse en resguardo su integridad, el niño ingresa al CAR. Ahora, la UPE, dentro de su función, está ubicar a la familia de origen. Hacer una evaluación integral,
+18:58 Speaker 1: ¿no? Social, psicológica y legal. Y también disparar medidas de protección. Estas medidas son de la terapia ecológica.
+19:10 Speaker 3: Diversas terapias que tienen que llevar de acuerdo al factor de riesgo, que sea por competencias parentales, por
+19:16 Speaker 1: consumo, por problemas de salud mental,
+19:19 Speaker 3: se buscan también redes familiares que puedan poder acoger al niño, porque siempre la última opción del ministerio es que la niña al niño ingrese a un albergue. Entonces, si es que no se ha encontrado redes familiares que puedan acoger a la niña o niño, se continúa con ese proceso de desprotección,
+19:37 Speaker 1: ¿no? Quiere decir que el niño continúa en el campo.
+19:39 Speaker 3: Entonces, ahí es donde entra el instrumento para poder hacer un trabajo con estas familias, que
+19:43 Speaker 1: las familias puedan mejorar su situación.
+19:46 Speaker 3: Sin embargo, muchas veces, por las
+19:48 Speaker 1: características de las familias,
+19:49 Speaker 3: no se logra superar tantos factores de riesgo. Entonces, nosotros como equipo técnico, nosotros sugerimos, al final siempre es la UPE la que toma
+19:59 Speaker 1: la decisión, ¿no?
+20:01 Speaker 3: Sugerimos que se defina la situación legal, ¿no? Ya sea porque no se han superado los factores de riesgo, con la larga permanencia del menor.
+20:09 Speaker 1: etcétera, ¿no?
+20:11 Speaker 3: Entonces, es cuando ya el caso pasa a ser judicializado y se va a ayudar a audiencias para que se determine que caiga
+20:18 Speaker 1: en una situación de subvención definitiva.
+20:20 Speaker 3: Una vez que el juez determina qué situación de subvención definitiva, se le permite otra resolución y se da proceso a que el niño pueda tener carácter de adoptabilidad, ¿no? Que es otro proceso aparte que también nos toma mucho tiempo porque tiene que haber familias calificadas para que el niño pueda ser reintegrado. Es más o menos así la figura legal, ¿no? De la despotección tradicional, que es una medida que se toma para poder salvaguardar la enfermedad del niño, hasta la despotección definitiva, ¿no? Cuando se resuelve que no hay familia de origen capaz e idónea para asumir la responsabilidad de cuidado, no hay familia extensa tampoco que quiera asumir el desacogimiento del menor, ¿no? Y no se han superado esos factores terribles.
+21:07 Speaker 1: O sea, definitiva significa que tampoco
+21:09 Speaker 2: es de una familia externa, o sea, las opciones de adopción externa.
+21:14 Speaker 1: No, para la definitiva quiere decir que no hay familia de origen y no hay familia extensa.
+21:24 Speaker 3: Familia de origen es cualquier miembro de la familia que haya confinido con el menor.
+21:29 Speaker 1: Familia extensa se entiende como familiares que no
+21:32 Speaker 3: están dentro del núcleo familiar. Y también con esta protección familiar definitiva se extingue la patria potestad de los
+21:39 Speaker 1: progenitorios.
+21:40 Speaker 3: Con la provisional, es suspensión de la patria potestad. Pero con la definitiva, es la extensión total.
+21:48 Speaker 2: Y aquí recién cuando ya un
+21:50 Speaker 1: niño o niña se tiene viva,
+21:53 Speaker 2: recién podría empezar el otro proceso que nos mencionabas de
+21:55 Speaker 1: integrar la adaptabilidad.
+21:58 Speaker 2: En este caso, esta tabla no tiene esa columna de si el niño o niña ha sido integrado.
+22:05 Speaker 3: No, no, no. Aquí
+22:06 Speaker 1: no hay la información de ingreso.
+22:11 Speaker 2: ¿Hasta o relacionado con la permanencia del niño
+22:16 Speaker 1: hasta que
+22:18 Speaker 2: sea definitiva o no?
+22:20 Speaker 1: La definición de la situación legal. ¿Por
+22:24 Speaker 2: qué la situación legal es definitiva? La
+22:28 Speaker 3: presunta, la definitiva y la actividad.
+22:36 Speaker 2: ¿Adoptabilidad significa que es la siguiente a la presunta?
+22:39 Speaker 3: No, la primera es la presunta, después la definitiva y después de la definitiva es
+22:44 Speaker 1: la adoptabilidad, el carácter de adoptabilidad.
+22:48 Speaker 2: Es presunta, definitiva, y luego de la definitiva donde ya se dice que el niño no tiene familia
+22:54 Speaker 1: de origen,
+22:55 Speaker 2: llega la adaptabilidad. Adaptabilidad significaría que como ya tiene la definitiva, la adaptabilidad significa que es un proceso para... Para
+23:10 Speaker 3: adhesión. Ajá, como una familia adoptiva.
+23:20 Speaker 2: Si los chicos tienen alguna pregunta,
+23:22 Speaker 1: por todo lo que hayas de ir.
+23:36 Speaker 2: Ok, gracias. Es cierto, está claro. Y imagino que luego también los chicos cuando vean
+23:41 Speaker 1: el archivo y vayan explorando un poco más, estaremos
+23:47 Speaker 3: escribiendo en los
+23:48 Speaker 1: momentos.
+23:52 Speaker 2: Nos compartes el archivo, ¿cierto? Para subirlo.
+23:57 Speaker 3: Sí, te lo envío. Te lo envío, sí, para que puedas socializarlo con los
+24:01 Speaker 1: estudiantes. Gracias.
+24:06 Speaker 2: Gracias.
+24:08 Speaker 1: Gracias. Chicos, gracias entonces. Estamos viendo hoy.
+  
