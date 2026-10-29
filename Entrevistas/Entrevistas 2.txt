@@ -1,0 +1,183 @@
+# Entrevistas 2
+
+  Meeting started: 28/10/2026, 7:47:29 p. m.
+  Duration: 41 minutes
+  Participants: Speaker 1, Speaker 2, Speaker 3
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/EB30oNRuezTLUHO2lEAc?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Ya, ¿qué tal chicos? Buenos días con todos, ¿cómo están? Bueno, hoy vamos a empezar nuestra segunda reunión respecto al proyecto de articulación que estamos desarrollando con el Policultorio Pérez Araníbal y en esta ocasión está con nosotros Malú Gallardo. Malú nos va a presentar. Ella es la encargada del equipo técnico de la parte de nutrición, de los datos de nutrición. Entonces, ella nos va a ir explicando un poco todos los detalles adicionales que se van a tener en cuenta para que ustedes puedan realizar el análisis de los datos. Malú. Sí, te escuchamos.
+00:45 Speaker 2: Buenos días con todos. Soy la licenciada Malú Gallardo, coordinadora del Servicio de Nutrición del Policultorio Pérez Araníbal. Bueno, en este caso les voy a explicar un poquito la data que se tiene en cuanto a la evaluación nutricional en la parte de nutrición y explicarles el porqué de los datos y los indicadores que están colocados en los cuadros.
+01:08 Speaker 1: Voy compartiendo, por ejemplo, estos son todos los archivos. No sé si quieres hablar primero de todos los archivos y me vas diciendo cuál voy abriendo.
+01:15 Speaker 2: Cualquiera, porque todos tienen la misma forma.
+01:18 Speaker 1: Ya. Entonces, a ver, voy por M. Entonces, voy a compartir la pantalla para que sea más... Voy a compartir la pantalla del archivo nada más. Ya.
+01:36 Speaker 2: Bien, como pueden observar... en los cuadritos, pueden observar en la parte inferior que
+01:44 Speaker 1: hay
+01:45 Speaker 2: varias celdas, o mejor dicho, varias pestañas adicionales, ¿no? La parte de Infantes, Echenique, Tomás Valle y Maturos. Entonces, como ya les habrán explicado, el pericultorio se divide por hogares, tanto hogares de niños pequeños como hogares de niños más grandes y adolescentes. Entonces,
+02:02 Speaker 1: dependiendo el mes,
+02:03 Speaker 2: se va a evaluar a todos los albergados. Generalmente a toda la población se les evalúa cada tres meses, pero a la población más pequeña cada dos meses o cada mes. Entonces ahí podemos dividir niños menores de dos años que se los evalúa mensual o bimensual y los niños mayores de dos años que se los evalúa cada tres meses.
+02:25 Speaker 1: Por ejemplo, en el caso de infantes, ¿qué indicadores
+02:29 Speaker 2: utilizamos en nutrición? El peso y la talla específicamente.
+02:34 Speaker 1: ¿Para qué?
+02:35 Speaker 2: Con el peso y la talla nosotros podemos obtener... ciertos indicadores que me van a avisar si es que este niño está en buen o en mal estado nutricional. Como pueden observar también en el cuadrito, tenemos dos celdas que vendrían a ser dos herramientas para nosotros poder evaluar antropométricamente a sus niños. Según la OMS, que son los percentiles, que son unas gráficas, y según tablas de diagnóstico rápido. Las tablas de diagnóstico rápido son ejecutadas aquí en el Perú gracias al MINSA o al Instituto Nacional de Salud. Entonces, estas dos herramientas nos van a medir lo mismo. La única diferencia es que sus márgenes son pues no tan iguales, ¿no? Mientras los percentiles de la OMS fueron realizados en base a población norteamericana, los del Instituto Nacional de Salud, que son las tablas de diagnóstico rápido, fueron realizadas. teniendo en cuenta los márgenes de peso y talla de población peruana. Entonces, podemos observar en esos cuadritos cuatro ítems.
+03:42 Speaker 1: El ítem del
+03:43 Speaker 2: PE, que vendría a ser peso para la edad,
+03:47 Speaker 1: TE,
+03:47 Speaker 2: que vendría a ser talla para la edad, PT, que vendría a ser peso para la talla y el índice de masa corporal. ¿Bien? En los niños menores de dos años se toman en cuenta peso para la edad, talla para la edad y peso para la talla. Y en los niños mayores de cinco años se toman en cuenta solamente talla para la edad e IMC para la edad. Por ejemplo, ¿podemos ir a la pestaña de Tomás Valle, por favor? Bien, entonces ustedes pueden ver ahí que solamente se toman en cuenta el IMC que vendría a ser el resultado del peso sobre la talla al cuadrado, que nos da un número y gracias a ese número nosotros podemos evidenciar cuál es su IMC o su índice de masa corporal paralela y su talla paralela. que son los dos percentiles que se van a tomar en cuenta a los mayores de cinco años. Entonces, pueden observar que los diagnósticos son similares en algunos casos, pero diferentes en otros. Por ejemplo, si vamos a la pestaña,
+04:48 Speaker 1: a ver,
+04:50 Speaker 2: a la pestaña, o mejor dicho, dentro del cuadrito donde dice Casa 6 en Tomás Bahía. Casa 6, podemos ver por ejemplo el niño Muñoz,
+05:00 Speaker 1: Pedro,
+05:01 Speaker 2: podemos observar en el caso de él que las pestañas, casa 6, casa 6 o casa 5, como parece que sabe, un poquito más arriba,
+05:11 Speaker 1: porfa, ya,
+05:12 Speaker 2: casa 5, ajá, el niño Muñoz, Pedro, podemos observar que la talla para la edad en ambos cuadritos es normal. Pero el IMC para la edad, en uno dice riesgo de sobrepeso y en otro dice sobrepeso. Es por ello que yo utilizo esas dos herramientas. ¿Por qué? ¿Qué me van a medir esas dos herramientas? En cuanto a la talla, si es talla normal, talla baja. talla alta, riesgo de talla baja, y en el caso del IMC me pueden medir sobrepeso, obesidad, normal, riesgo de sobrepeso o riesgo de obesidad. Entonces, al yo tener estas dos herramientas puedo hacer un comparativo, mientras que en las herramientas de la OMS me dice que tienen niño riesgo de sobrepeso, en las tablas peruanas me dice que ya tienen sobrepeso. Entonces, en base a esos dos, yo puedo tomar una decisión de cómo abordar nutricionalmente. Si es que yo le doy un régimen dietético o no se lo doy, o en qué medida o en qué magnitud. Es por ello que en nutrición usamos específicamente todas esas tablitas. ¿Algo más que les puedo decir acerca de esta información? Bueno, en realidad, como les repito, se hace de acuerdo a los meses según la cantidad de años que tenga el niño y se va evaluando qué medidas a tomar. hacemos en cuanto al diagnóstico nutricional que podemos evidenciar. Tal vez alguna duda que tengan acerca de la información.
+06:43 Speaker 1: ¿Alguna duda chicos? ¿Alguna pregunta que quieran hacer sobre los datos que han ido viendo?
+06:51 Speaker 3: Buenos días, yo solo tengo una pregunta.
+06:54 Speaker 1: Sí, adelante.
+06:55 Speaker 3: O sea, no me queda claro la relación que tienen con el primer conjunto datos que nos dieron. O sea, porque me parece que aquí están con nombre y apellido y en el otro caso están con
+07:07 Speaker 1: IDs. Ah, sí. No, sí, sí, sí. Perdón, en este caso he abierto este archivo. que tiene esta versión, pero lo que se les pasa a ustedes es con ID. Sí, este es el archivo original que Malú nos pasó para iluminar, pero el que se les pasa a ustedes es con IDs, que son los mismos IDs de la ficha nominal.
+07:27 Speaker 2: Sí, la única diferencia es que está cambiado el nombre por el ID, pero los resultados del diagnóstico son iguales.
+07:34 Speaker 3: Ah, ok, ok, ya, gracias.
+07:39 Speaker 2: Ahora, estas dos herramientas las pueden encontrar en internet, tanto
+07:42 Speaker 1: los percentiles que también se lo pasé a Stephanie.
+07:45 Speaker 2: Y también las tablas de diagnóstico rápido, ¿no? Ahí te está explicando los márgenes, de qué peso a qué peso va, de qué talla a qué talla va, y de acuerdo a eso, pues se utilizan, ¿no? En este caso lo hacemos manual con esos márgenes, pero también hay un programa de una fundación que nos apoya en el puricultorio, en donde tú ingresas los datos y automáticamente te bota, pero solo de las tablas de diagnóstico rápido, ¿no? En este caso yo trato de juntar ambas herramientas con el fin de poder hacer un comparativo un poquito... más rico para poder tener un diagnóstico muchísimo más exacto que usarlo solo con una herramienta.
+08:22 Speaker 1: Ah, claro, se complementaría. O sea, una pregunta, Malú, en este caso, por ejemplo, como ya estos límites o estas etiquetas de normal riesgo es en base al IMS, ¿cierto? En este caso, como ya están las etiquetas, ya no sería necesario que nosotros volvamos a encontrar la regla de corte, o sea, ya nos podemos pasar de estas. Claro, porque ya
+08:50 Speaker 2: está colocado el diagnóstico, entonces ya no sería necesario el adicionar o hacer búsqueda, porque ya está colocado, como ya lo hice de manera, en
+09:01 Speaker 1: este caso.
+09:03 Speaker 2: sin necesidad de un programa, con la misma herramienta, entonces manual, mejor dicho, entonces ya está colocado el de un, solamente sería cruzar por la información, o generar tablas, o algún dato que se quiera conseguir, no sé, tal vez cuántos niños estuvieron con talla normal, según talla paralelada, cuántos niños en un IMC tienen sobrepeso, por casitas, ¿no? ¿Cuánto es el porcentaje de niños normales, sobrepeso? Entonces, se pueden hacer ahí infinita cantidad de tablas con la información que ya está colocada.
+09:33 Speaker 1: Ok. Y en esta información que nos has pasado, que es de... Voy a volver a compartir acá la carpeta. También está levantada la mano de Flavio, recién lo veo. Flavio, ¿te escuchamos?
+09:49 Speaker 3: Sí, buenos días. Yo tenía una pregunta, no sé si, pero se lo podría compartir, la ficha de nutrición, pero del mes de junio, por favor.
+10:00 Speaker 1: Ya, ahorita la comparto, perdón, perdón, no había visto tu mano levantada. De junio me dices, ¿no? Sí. Junio. Ya voy a abrir la ignominada, porque por error he abierto la que tiene los nombres. Menos mal mencionaron. Ya voy a abrir la que ya está ignominada de junio. Ya, ahorita comparto pantalla. Junio. Aquí.
+10:28 Speaker 3: Ya está. Bueno, mi consulta es sobre exactamente más o menos en qué fecha se está tomando, porque dice junio del 2026, sin embargo la fecha de nacimiento sale 12, 9 del 2023, pero en edades diferentes, son como unos tres meses más.
+10:46 Speaker 1: Ajá.
+10:47 Speaker 2: Puede ser que tal vez se haya movido ahí alguna celda de la fecha y tal vez esté arrojándote otra fecha. puede haber
+10:57 Speaker 1: pasado.
+11:00 Speaker 3: Entonces, pero ¿cuál es el que está bien? ¿Fecha de nacimiento? Claro, la fecha de nacimiento, exacto. Eso es lo que he visto, que sí está puesto, mientras que es con una fórmula, edad es con una fórmula.
+11:10 Speaker 1: Exacto, está fijo la fecha de nacimiento. Pueden
+11:13 Speaker 2: tomar en cuenta solamente la fecha, porque ahí igual te va a arrojar la edad.
+11:16 Speaker 3: Sí, sí, sí. Como no cuadraba, no estaba muy seguro si de repente se habían equivocado al registro o no era de junio. No, claro, puede pasar
+11:24 Speaker 2: que se haya movido, que es lo más probable, que es lo que suele suceder también, porque a veces... dejan la fórmula fija y tú vas abriendo la carpeta y te va moviendo las fechas de las edades.
+11:35 Speaker 1: Ah, claro. Ok. Ok. Entonces, ¿se tomaría la fecha de nacimiento? De nacimiento. Ajá. Y según el nombre del archivo, solo recalculan, ¿no? Actualización. Ajá, la edad. Sí, así es. Ok. Ah, vi otra mano levantada aquí también, de Carlos. Carlos, ¿escuchamos?
+11:56 Speaker 3: Sí, buenos días. ¿Qué tal? Buenos días. Yo tenía una consulta con respecto al... al tema de las diferentes métricas que se consideran. Se menciona que se utilizan los resultados tanto por OMS y el INS para tener una mejor comparativa, pero a las finales, ¿cuál sería el que se considera para poder tomar una decisión? Porque en los ejemplos puede que algún dato del OMS sea normal, pero para... para el INS ya esté con un riesgo de sobrepeso, ¿no? Tal vez... Se considera
+12:33 Speaker 2: en este caso.
+12:35 Speaker 1: Por ejemplo, en el primer
+12:38 Speaker 2: cuadrito, tal vez. No, en el segundo,
+12:40 Speaker 1: claro, en la segunda fila podríamos ver, por ejemplo, aquí te dice obesidad.
+12:47 Speaker 2: Ajá, en el IMC te dice obesidad, o mejor dicho, en el peso para la talla te dice obesidad, pero en el otro peso para la talla te dice sobrepeso. Entonces yo tomo en este caso el mayor. Tengo siempre que irme hacia el mayor para poder tener más riesgo de prevención. Entonces ya consideraría al NNA como un NNA con obesidad. Y si fuera, por ejemplo, en uno me dijera sobrepeso y en el otro me dijera riesgo de sobrepeso, toma en cuenta el sobrepeso. Si en uno me dijera normal y en el otro me dijera riesgo de sobrepeso, toma en cuenta el riesgo de sobrepeso. Por ejemplo, en uno me dice talla baja y en otro me dice normal. En este caso yo tomo en cuenta el talla baja. Al final esas son decisiones que como profesional uno toma en cuanto a la gravedad del diagnóstico que podamos encontrar.
+13:40 Speaker 1: La herramienta que te lanza el riesgo, a esa ley, ¿no? Por prevención. Entre un normal y un riesgo, un riesgo simple.
+13:50 Speaker 2: Así es, por prevención más general. porque ya nos está indicando que en cualquier momento va a ingresar al riesgo, entonces, porque ya el otro resultado nos está botando un margen, o mejor dicho, un diagnóstico diferente, entonces ya me está indicando que en cualquier momento puede suceder, entonces para evitar que suceda, tomo en este caso el NNA como un paciente en riesgo.
+14:14 Speaker 1: Claro, ok. Entonces sería como una herramienta que está conformada por la información de dos herramientas, ¿no? Como que generas una combinación de ambas. Así es. Exacto.
+14:26 Speaker 2: Para poder tomar la decisión en cuanto a la prescripción nutricional que se les va a indicar.
+14:35 Speaker 1: Ok, queda más claro. Carlos, ¿se respondió a tu pregunta?
+14:38 Speaker 3: Sí, sí, muchas gracias.
+14:41 Speaker 1: Gracias. Ítalo, también veo tu mano levantada, ¿te escuchamos?
+14:44 Speaker 3: Sí, justo quería preguntar algo parecido porque mencionó que para niños mayores de 5 años solo se utiliza el talla para la edad y el IMC. Quería entender bien a qué se debe esto, o sea, si es que no se mide por algún motivo, o es que nosotros también podríamos medirlo a partir de los datos que tenemos y usarlo también, ¿no? Gracias.
+15:11 Speaker 2: Según la normativa de peso y talla, niños mayores de 5 años solamente se consideran los indicadores de talla para la edad e IMC para la edad. ¿Por qué? Porque a esos niños ya se los pesa generalmente paraditos, ya no tan echados, y en realidad el peso para la edad y el peso para la talla solamente se utiliza para población pediátrica menor de 5 años. Entonces, solamente ya por, en realidad, por normativa general de la Organización Mundial de la Salud. consideran ese margen. Y para los pequeñitos no es necesario el IMC porque consideran, en vez de IMC, consideran peso para la talla. Más que nada es por normativa que está establecida según la Organización Mundial de la Salud.
+15:57 Speaker 3: Y ahí de todas formas, si calculásemos el peso para la talla de una persona de mayor de 5 años, no tendríamos la forma de poder categorizarlo. ¿Por qué
+16:10 Speaker 2: no vas a encontrar la información en la tabla que corresponde a esa población? Ustedes pueden buscar, como les digo, en las tablitas y ahí pueden colocar tablas de diagnóstico rápido y la misma tabla te va a arrojar los indicadores que tienes que utilizar para la edad de la población.
+16:36 Speaker 1: Ok, interesante, gracias. Eso significa, Malú, que este índice de masa corporal se puede calcular para todos, pero por lo que ya se tiene el peso y la talla, se podría calcular para todos, pero mencionabas que…
+16:54 Speaker 2: Solo se utiliza en mayores de 5 años.
+16:57 Speaker 1: Y en el otro caso, de frente se usa lo que me indicaría la tabla de peso para la talla. Que
+17:09 Speaker 2: es un IMC similar, porque es igual el peso para la talla. Y el IMC es el peso sobre la talla de cuadrado.
+17:15 Speaker 1: Ok. Eso es para registrar el riesgo de obesidad. Pero, por ejemplo, una consulta. Si nosotros quisiéramos incluir el IMC como variable en general, como un indicador más del niño, igual lo podemos incluir para todos, ¿cierto? A pesar de que no se considere para el riesgo. Ok.
+17:34 Speaker 2: Así es, sí, todos pueden incluir IMC porque al final es un factor que me va a ayudar tal vez no a medir esos indicadores, pero sí me pueden ayudar, por ejemplo, a medir otros, como por ejemplo, circunferencias de la cintura, circunferencias de la cadera, que ya son, en este caso, mediciones un poquito más afinadas, que no se toman en este caso los niños por falta de cantidad de personas que podamos evaluarnos. Pero ese IMC se puede utilizar
+18:01 Speaker 1: para otras cosas. Ok, como informativo, gracias. Eso me lo digo. Italo, ¿sí? ¿Te escuchamos?
+18:07 Speaker 3: Sí, tenía otra duda viendo un poco los datos, porque me acuerdo que la grabación de la primera reunión mencionaron que se trabajaba con niños entre 0 a 17 años, pero veo que algunos datos mencionan edades mayores a eso. Quería saber si es que sí aceptan... ¿Personas mayores de ese rango, o sea mayores de 17 años?
+18:32 Speaker 2: Bueno, en este caso es una información un poquito sensible, pero para más o menos que tengas una idea, son chicos que en realidad están aquí desde muy pequeños y se les da la posibilidad de estudiar alguna carrera técnico-universitaria, entonces se les extiende un año más la permanencia en el puricultorio con el fin de que puedan terminar sus estudios, solamente por ese caso.
+18:55 Speaker 3: Ah, ya, entonces la única excepción. Porque solamente
+18:57 Speaker 1: la máxima es 18.
+19:00 Speaker 3: Ah, ya, entonces consideramos el máximo entonces como 18 años, ¿no? Si encontrásemos alguna persona mayor.
+19:07 Speaker 2: No, consideren a toda la población. Ah, ya, de todas formas. Ah, la población, considerenla porque al final toda la población recibe la misma atención.
+19:16 Speaker 3: Ah, ok, ok. Ya, gracias.
+19:17 Speaker 2: Igual se los pesa, igual se los talla, igual se les brinda alimentación, vivienda, comida. Entonces son parte de toda nuestra población de policía.
+19:27 Speaker 1: Entonces, si encontramos edades de valores mayores, no es un error de cálculo, sino está bien porque son casos particulares, ¿cierto? Que están contemplados. Así es. Así entiendo que las chicas están preguntando porque a veces cuando vemos, supuestamente si establecemos un rango, si vemos valores fuera, a veces nos queda la duda si es error de registro o no. Entonces, lo asumimos como no error de registro. Casas excepcionales. Casas excepcionales. Flavio, ¿sí te escucho? ¿Otra
+20:00 Speaker 3: consulta más, por favor? Sí, bueno, no sé si podría compartir el de Infantes de Febrero. Esa es una pregunta muy específica. Sí, no te preocupes.
+20:10 Speaker 1: Ahorita lo Infantes de Febrero. Ya, aquí.
+20:24 Speaker 3: Ya, es que el chico o chica, bueno, con el código 1117 y el de 0146 tienen los mismos datos, excepto en la edad. Y no sé si es un error de digitación o...
+20:43 Speaker 1: Bueno, no me parece que... No, puede suceder
+20:45 Speaker 2: que estén con la misma talla y el mismo peso.
+20:48 Speaker 3: Pero uno es de tres años. Incluso
+20:50 Speaker 1: puedes pesar a dos, tres.
+20:57 Speaker 2: a menos que
+21:00 Speaker 1: sean hermanos mellizos
+21:03 Speaker 3: Pero uno es de un año y otro es de tres años. Voy a hacerlo, pergunto. Y entonces tenía la misma vez y
+21:11 Speaker 1: la misma talla. A ver, dame un segundo, veo... Ok, este es de febrero. Dame un segundo que veo en
+21:15 Speaker 2: mitad la escurita mano. Un momento.
+21:18 Speaker 1: Un momento, un momento.
+21:19 Speaker 2: Déjame buscar en los datos y de repente hacía un momento el tipeo. Un segundito. Ok. Febrero. ¿Qué número es? Número 1 con número
+21:30 Speaker 1: 5, ¿verdad? Número 1 con 5, ajá. Ya.
+21:35 Speaker 2: Es el mismo peso, pero aquí en la talla al momento de redactar mis internos han tenido un error. La talla es 96.
+21:44 Speaker 1: Del segundo. Por favor, si por ahí lo pueden... Del segundo. Del cinco. La talla es noventa y seis. Noventa y seis. Ajá, el mes de 92 es
+21:54 Speaker 2: noventa y seis. Ha sido error de tipo de documental.
+21:57 Speaker 1: Ya, ok. Entonces, acá lo actualizamos. Igual lo comentamos para los chicos, los delegados, por favor. Si le pudieran comentar a todos los demás que nos han podido conectar. Igual lo voy a apuntar acá y subo el archivo otra vez, por si acaso. Ya, no hay problema. Ok. Y el resto quedaría igual. Ok.
+22:23 Speaker 3: Hay otro caso más en el mes de agosto.
+22:29 Speaker 1: A ver, mes de agosto.
+22:33 Speaker 3: Sí, mes de agosto, agosto OMG, en Mataroso Hombres, el 10 con el 14.
+22:44 Speaker 1: A ver, un salito para compartir pantalla. Amos, tú me dices, ¿no? Sí. No todos los hombres, ¿qué filas?
+22:56 Speaker 3: 10 con el 14. Ah, ya, ¿qué filas son? La fila 14 con el 18, pero con ese número que tiene ahí, 10 con 14.
+23:08 Speaker 1: Ah, ya, o sea, ¿en el número? ¿Qué número es?
+23:10 Speaker 3: 10 y el 14. Tienen diferente IMC, pero tienen mismo peso y misma talla. Entonces asumiría que el 14 es el que está mal. Pero igual quería preguntar.
+23:25 Speaker 1: Ahí hay IMC, es el de acá. Claro. Ah, ya, ¿te refieres si es que recalculamos el índice de masa corporal? O sea, si nos basamos estos dos valores para calcularlo.
+23:42 Speaker 3: O si es que alguno de los dos datos está erróneo, por eso que el índice de masa corporal sale diferente.
+23:49 Speaker 1: Ah, ya. ¿Cómo haríamos? No me escucho. Ya, a ver, el índice de masa
+23:55 Speaker 2: corporal, el que vale es el...
+24:03 Speaker 1: Malú, creo que se cortó. O no sé si es mi internet.
+24:15 Speaker 3: No, Rosario, yo tampoco lo escucho. Ah, ya.
+24:19 Speaker 1: Malú, creo que se ha entrecortado. La señal se está yendo. O no sé si nos llevas a escuchar. La verdad es que se conecta. ¿Aleu, se me escucha? Sí, hola Malu, ya ahora sí se escucha bien.
+25:11 Speaker 2: Sí, como les decía, la celda que vale es la del 14, el IMC del 14,
+25:16 Speaker 1: 24.08. Ajá, igual he sido con la celda. Ah, ya. O sea, ¿valdría este IMC y estos de acá serían los que de repente se tendrían que modificar?
+25:26 Speaker 2: No, no, no. Son los mismos datos. O sea, en el resto tienen los mismos pesos. 61.65, 1.69 y a todas esas celdas igual al de arriba.
+25:36 Speaker 1: Tal cual.
+25:36 Speaker 2: Con el resultado del IMC. Ah, o sea, el
+25:39 Speaker 3: del 10 es el que tenemos que modificar su IMC.
+25:42 Speaker 1: Sí, solamente el 10. Este 24.8 pasaría acá al 10. Ahí
+25:48 Speaker 2: es el 23.7. Así es. Ahí.
+25:51 Speaker 1: Ok. Ok. Yo
+25:55 Speaker 3: tenía una pregunta más.
+25:58 Speaker 2: Sí, por favor, porque ya tengo que avanzar mis cosas. Sí, sí, no,
+26:01 Speaker 3: no hay problema. En el caso hay algunos chicos que dicen provincia y no tienen nada, ningún dato. Sí. Entonces, ¿podría profundizar un poco más en ese aspecto o si es que se va a tratar con ellos también o no?
+26:13 Speaker 2: Si es que ves que dice provincia y no tiene ningún dato, no lo consideres. Porque no son chicos que están aquí en Lima para poder pesarlos. Solo que yo lo pongo en los cuadros porque tengo que tener en cuenta toda mi data e identificar si están o no estuvieron al momento del peso. Pero cuando quieras cruzar tu información, es necesario que los coloques.
+26:33 Speaker 3: Ok, muchas gracias.
+26:34 Speaker 1: Ah, pero viste, son chicos que no estaban acá.
+26:38 Speaker 2: No, que no estaban acá. Pero ya están todos aquí,
+26:40 Speaker 1: pero en ese momento no estaban acá. Ah, ok, ok. Ah, ya. Ya chicos, hasta ahí entonces sería, no sé si tienen otra pregunta. Ya, a ver, Nicole, última pregunta por sí, si te escuchamos. Quería consultar si es que en la ficha de nutrición consideramos de cada niño la fecha de nacimiento porque habíamos visto que en la ficha nominal había... Cuatro niños, cuatro casos de niños que tenían distinta fecha de nacimiento por cada periodo que se le hizo, que está registrado en la fecha nominal. Entonces tenía fecha de nacimiento diferente. Solo eran cuatro casos. Uno de ellos es el 20 justo. Y por eso preguntaba si es que de repente el de la nutrición sí tiene la fecha de nacimiento correcta y esa es la que debemos considerar o ha sido un error y tenemos que considerar las tres
+27:35 Speaker 2: que no son. Yo utilizo la fecha de nacimiento.
+27:43 Speaker 1: Maru, te escuchamos una parte. Decías que utilizo la fecha de nacimiento de cuál? Creo que el internet se corta. Podría verificar. Con los IDs, o sea, por ejemplo, si me pasan los cuatro IDs, puedo verificar con el archivo, como tengo el archivo con los nombres, hacer ese contraste, ¿no? Es el 0020. 0020. En la ficha nominal, en algunos periodos, tiene varios registros, pero habían mencionado que por periodo solo debería tener uno. Ah, ya, ya. A ver, lo voy a apuntar acá. Entonces, solamente es un ID, pensé que eran cuatro personas. No, sí, sí, son cuatro, son cuatro, pero no lo tengo en la mano justo ahorita. Ah, ya, pero te acuerdas del 0020. Sí, me acuerdo del 0020. Hola. Malú, ya, ahora sí te escuchamos. Como te digo, la señal aquí es horrible. Sí, ya,
+29:21 Speaker 2: a ver, entonces, como les decía. Ahorita me sorprende lo que me están diciendo de las fechas de nacimiento, porque yo tomo en cuenta una de las fichas nominales. Por si te inicio el año y yo con la ficha nominal de enero y yo me quedo con esa fecha de nacimiento o perenne.
+29:32 Speaker 1: Entonces tendrían que en este caso preguntarle, Estefania,
+29:35 Speaker 2: el por qué hay ese caso de cambio de fecha de nacimiento. Tal vez ha sido un error de redacción de ellas, no sé, porque el de ser así tendría que revisar nuevamente todos mis cuadros y recalcular las fechas.
+29:47 Speaker 1: Claro, justo le estaba comentando a Nicole que lo que puedo hacer, como yo tengo los IDs que hemos usado para la ignominación, puedo verificar eso para ver qué ha sido, ¿no? Y ahí lo verifico y les confirmo cuál ha sido el motivo, ¿no?
+30:03 Speaker 2: Ya, genial, sí, te agradecería porque ya me preocupé.
+30:06 Speaker 1: No, debe haber alguna explicación ahí. De repente al momento de ignominar puede que algo haya pasado, que los otros estén bien y sea algo de la ignominación.
+30:15 Speaker 2: Ah, ya listo.
+30:16 Speaker 1: Ya, genial. Pero ya. Ok, gracias Nicole. Entonces vamos a verificar eso. Yo apunté ya el ID 0020, pero me confirmo cuáles serían los otros tres y lo verifico. ¿Es mío por correo? Ya, sí, como prefieras, sí, para que lo tengas con calma. Ok. Ya, gracias, Nicole. Ya, Malú, muchas gracias. Ahora sí, muchas gracias. Gracias por responder a los chicos. Han hecho varias preguntas interesantes. Y muchas gracias por tu tiempo y la explicación. Sí, listo. Vamos a ir teniendo algunos resultados. Les vamos a ir avisando cuando ya tengamos algunos resultados extras para irles presentando esos avances.
+30:55 Speaker 2: Ya, perfecto. Gracias.
+30:57 Speaker 1: Ya, Malú, muchas gracias. Un abrazo. Nos vemos pronto. Ya chicos, muchas gracias entonces por su asistencia, gracias por sus preguntas, también han estado muy buenas. Vamos entonces a seguir analizando los datos, igual si tuvieran algunas preguntas adicionales, las pueden ir listando para irlas resolviendo. Y sí. Vamos, entonces, lo que quedaría pendiente ahorita por mi lado sería confirmarles estos cuatro IDs que mencionó Nicole para ver si ha sido un tema de la fuente de datos o si ha sido algo con la denominación. Porque algo que estaba recordando es que había un ID. Voy a verificarlo primero, pero no sé si puede que sea ese ID. Que había unos que no tenían dos registros, me acuerdo, que no tenían DNI. No sé si el ignominado los habrá juntado en uno solo. Y por eso son diferentes fechas. Porque de repente son diferentes personas que han recibido un mismo ID. Esa es mi hipótesis ahora. Pero voy a verificarlo. Sí, los escucho, chicos. Y tenlo bien, Nicole. Lucera,
+32:11 Speaker 3: tenía una duda porque había varios registros de estos aires de nutrición que tienen un signo, o sea, tienen un asterisco, o sea, entiendo que es porque no se ha hecho la categorización, ¿no? del valor, pero no sé si es que para esos casos nosotros tendríamos que completarlo con la información que nos da, o sea, calcular nosotros según el rang en que se encuentre.
+32:39 Speaker 1: ¿Te refieres asterisco en la parte de la etiqueta o en la parte no?
+32:45 Speaker 3: Sí, de la etiqueta, de la etiqueta. O sea, como ya tenemos los números, hay algunos, creo que no es archivo, pero en el primero creo que mostró de junio. Hay algunos que tienen, por ejemplo, en... En las categorías tienen un asterisco. Entiendo que no está categorizado, pero se podría calcular. Pero no sé si es lo que necesitaríamos hacer porque veo que hay algunos casos que tienen bastantes asteriscos.
+33:12 Speaker 1: Acá, este de la derecha, ¿no?
+33:14 Speaker 3: Sí.
+33:16 Speaker 1: Claro, a menos que le coloque asterisco porque se asume que es el mismo que está acá. Porque no sé si el INS tiene una forma diferente de calcular el índice de masa corporal. podría
+33:31 Speaker 3: ser pero por ejemplo más abajo salen otros campos que también tienen asteriscos y si son más variados entonces
+33:39 Speaker 1: Claro.
+33:40 Speaker 3: Ahí sí me daría dudas aparte, como para preguntarla la próxima vez.
+33:45 Speaker 1: Y
+33:45 Speaker 3: también que había otro caso, por ejemplo, justo en ese mismo archivo, en el Mato Grosso Mujeres, en ese caso hay algunas filas como la fila 13, que dice provincia en toda la... La parte de los datos, o sea, a la derecha en vez de salir los valores, sale provincia. Entonces, como para saber qué significa...
+34:13 Speaker 1: Ah, aquí. Ah, ya. Sí, esto de provincia, lo que mencionó ahorita, significa que cuando ven provincia... Sí, justo lo mencionó ahorita el último Malú, así rapidito lo mencionó. Decía que cuando se identifique esto, provincia, cada provincia, significa que el niño no ha estado presente. Por eso no lo ha podido medir.
+34:33 Speaker 3: Ah, ya, entonces sería como un dato vacío, entonces.
+34:35 Speaker 1: Sí, sería un dato vacío, exacto.
+34:37 Speaker 3: Ah, ya, gracias.
+34:40 Speaker 1: Ah, y respecto a los asteriscos, yo consideraría que sí, si llegan a encontrar la forma de encontrar la etiqueta. o sea, usando la definición de la OMS y también acá para asignar la etiqueta usando la definición de la INS, si se puede completar sería ideal que se haga. Igual agregándole un flag, colocando como que estos son datos originales y estos son datos calculados para diferenciar eso. Si en algún momento de repente nos indica a Malú que por algún motivo no se deba considerar esto, sería bueno tener un flash que diga estos los hemos calculado nosotros y estos ya han venido calculados. Porque según lo que han visto, sí podemos encontrar estos valores, ¿cierto? Con la fórmula que tendría, que daría la OMS, por ejemplo. Usando los valores de peso, talla y con el inicio de mesa corporal. En teoría, si ya logran encontrar los umbrales, se podría completar. Se podría completar. Ahora. Ahora, el tema puede ser, aunque acá estos niños son de nueve años y ella dijo un corte de cinco años, ¿no? Claro, no sería. Le siga diciendo, de repente estos niños tienen asterisco acá porque no se les mide o no es necesario medirles. Podría ser. Pero sí, entonces en resumen, si es que hay archivo, perdón, datos que se pueden completar con la generalización de una regla de cálculo, lo hacemos y colocamos el flag de esto lo hemos completado nosotros y esto ya venía original para tomar decisiones en el futuro. Sí, Nicole, ¿estás levantando la mano? Le quería comentar que yo tengo los IDEs. Es el 0010, 0020, 0025 y el 127. Y aparte del nacimiento, que todos presentan nacimientos distintos, pero el 20 justo presenta 5 fechas de nacimiento que hemos encontrado. También en el caso del 20 tiene el sexo distinto, entre masculino y femenino, y esa que justo presenta también más registro de lo que debería haber en la fecha nominal, porque teníamos entendido que era por cada periodo una evaluación por persona. Por niño. Y tiene más, entonces aumenta también más. De los 19 periodos que debe haber son como 36 registros que tenemos. El del 20 me dices, ¿no? El del 20, ajá. Entonces puede que ahí mi hipótesis está tomando más fuerza. La hipótesis de que puede que sean diferentes individuos que han recibido el mismo ID por algún tema. Podría ser. Pero ya, entonces lo voy a verificar. Igual, si desean mandarme un correo con las pantallazos de esto que me estás comentando, o sea, como, por ejemplo, estas son las filas, estas son las variables que se repiten, o algo así, si lo tuvieran a la mano, va acá. Si no, ya con los IDs que me has mandado. puedo ubicarlos, pero igual si tienes todo eso que me acabas de comentar, como en pantallazos, si es que pueden mandarlo acá para también ubicarme al toque cuáles valores son. Ya, ya estamos. Ok. Ok, Nicole, gracias. Ya los tengo acá apuntados para chequearlo. Igual lo verifico entre hoy máximo mañana y mañana les estaría confirmando si es que hoy mismo no se puede. ¿Alguien más había levantado la mano, creo? No lo vi a tiempo. No,
+39:06 Speaker 3: sí, era... ¿Carlos? Sí, era solamente para decir que tal vez lo que usted mencionaba de su hipótesis era... O sea, tenía razón, pues. De que si es que salía que era varón o mujer. Obviamente eran dos personas distintas.
+39:26 Speaker 1: Personas distintas, sí, cierto. Puede que sea eso, porque ahorita me estoy acordando. Por ahí había un par. o no sé si más, que no tenían DNI. No sé por qué. No tenían DNI, entonces no sé si algo de eso habrá influido para que se les dé el mismo aire. Sí. Pero entonces ya, lo verifico para confirmarles y ver si se mantiene, si se excluye y vemos qué hacemos. Pero está excelente que lo hayan identificado. Ok. Ya, chicos. Entonces, si no hay más consultas, podemos cerrar la reunión por aquí y les subo el video para que también los demás compañeros que no se han podido conectar lo puedan ver. Y seguimos avanzando. Por ahí que me han contactado dos equipos para reunión con asesoría. O sea, para reunir y conversar de algunas cosas, dudas que tengan, lo vamos programando en estos días. Mis horarios van a estar un poco... movidos porque tenía que reprogramar las cosas de ahí de mañana Pero ahí me ajusto para que no queden sus dudas y aunque sea en la noche, ustedes me avisan, los equipos que me están preguntando, si es que están algunos conectados acá, cuál es su hora máxima en la noche para poder conectarlos también, para saber en qué rango tienen disponibilidad de reunión y ahí cuadrar horarios. Ya, ya chicos, ahora sí, los dejo, los libero. Continuamos con nuestras actividades y seguimos conversando. Voy a estar atenta al correo en caso les surjan dudas en estos días previas a su expo. Ya chicos. Gracias entonces y nos estamos comunicando.
+41:12 Speaker 3: Muchas gracias profesora. Gracias.
+41:15 Speaker 1: Gracias. Hasta luego. Buen día.
+  
